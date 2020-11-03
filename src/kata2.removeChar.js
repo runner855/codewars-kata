@@ -1,5 +1,5 @@
 const removeChar = (str) => {
-// Your code here
+// YOUR CODE HERE
     
 };
 
